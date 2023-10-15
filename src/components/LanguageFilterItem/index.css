@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.button {
+  margin: 10px;
+  font-size: 12px;
+  font-family: 'Roboto';
+  background: none;
+  outline: none;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+}
+
+.tab-btn {
+  border-style: solid;
+  border-color: #0284c7;
+  border-radius: 14px;
+}

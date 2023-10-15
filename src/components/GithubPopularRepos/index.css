@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.ul-list {
+  list-style-type: none;
+  display: flex;
+  background-color: #f8f8ff;
+  border-radius: 8px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ul-list-container-2 {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main-heading {
+  font-size: 26px;
+  font-family: 'Lobster';
+  color: #0f172a;
+}
+.warn-image {
+  width: 300px;
+}
+.warn-data {
+  font-family: 'Lobster';
+  font-size: 20px;
+  color: #0f172a;
+}
